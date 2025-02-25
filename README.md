@@ -1,5 +1,8 @@
 # 🌊 MetalFlow
 
+![og-mf](https://github.com/user-attachments/assets/b33815d1-e7a5-4605-9fa0-078a7852db0f)
+
+
 > A ported fork of [paper-design/liquid-logo](https://github.com/paper-design/liquid-logo) with enhanced features and optimized layout.
 
 Transform your logos into mesmerizing liquid metal animations! This WebGL-powered tool creates stunning metallic effects that respond to your control. Perfect for creating eye-catching animations for presentations, websites, or just for fun.
