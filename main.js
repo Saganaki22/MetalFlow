@@ -430,7 +430,7 @@ function setupLogoSamples() {
         div.className = 'logo-sample';
         div.setAttribute('data-logo', logo);
         const img = document.createElement('img');
-        img.src = `/logos/${logo}.svg`;
+        img.src = `/MetalFlow/logos/${logo}.svg`;
         div.appendChild(img);
         logoSamples.appendChild(div);
     });
@@ -441,7 +441,7 @@ function setupLogoSamples() {
         div.className = 'logo-sample';
         div.setAttribute('data-logo', logo);
         const img = document.createElement('img');
-        img.src = `/logos/${logo}.svg`;
+        img.src = `/MetalFlow/logos/${logo}.svg`;
         div.appendChild(img);
         logoSamples.appendChild(div);
     });
@@ -449,7 +449,7 @@ function setupLogoSamples() {
     // Add click handlers to logo samples
     document.querySelectorAll('.logo-sample').forEach(sample => {
         const logo = sample.getAttribute('data-logo');
-        sample.addEventListener('click', () => loadImage(`/logos/${logo}.svg`));
+        sample.addEventListener('click', () => loadImage(`/MetalFlow/logos/${logo}.svg`));
     });
 }
 
@@ -840,7 +840,7 @@ function initApp() {
     }
     
     // Load default logo (github)
-    loadImage('/logos/github.svg').then(() => {
+    loadImage('/MetalFlow/logos/github.svg').then(() => {
         requestAnimationFrame(animate);
     });
 }
