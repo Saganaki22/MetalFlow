@@ -42,10 +42,10 @@ Transform your logos into mesmerizing liquid metal animations! This WebGL-powere
 
 
 ### 🎥 Export Options
-- **GIF Export**: 
   - 24fps for smooth animation
-  - 5-second duration for perfect loops
-  - Purple pulsing glow effect during generation
+  - mp4 -> Webm fallback chain
+  - Custom -25 second duration
+  - Red pulsing glow effect during generation
   - Local worker for better performance
 - **PNG Export**: Instant high-quality static captures
 - **Visual Feedback**: Processing indicators for all operations
@@ -62,11 +62,11 @@ Transform your logos into mesmerizing liquid metal animations! This WebGL-powere
 <details>
 <summary>🎯 Pro Tips</summary>
 
-- **Perfect Loops**: Keep GIF duration at 5 seconds for smooth loops
+- **Perfect Loops**: Keep animation duration at 5 seconds for smooth loops
 - **Edge Control**: Start with edge value at 0.4 for balanced results
 - **Mobile Upload**: Use the upload button for the best mobile experience
 - **Pattern Mixing**: Combine pattern scale and blur for unique effects
-- **Quick Exports**: Use PNG for instant captures, GIF for animations
+- **Quick Exports**: Use PNG for instant captures, mp4 / webm for animations
 </details>
 
 <details>
