@@ -4,17 +4,12 @@
 
 Transform your logos into mesmerizing liquid metal animations! This WebGL-powered tool creates stunning metallic effects that respond to your control. Perfect for creating eye-catching animations for presentations, websites, or just for fun.
 
-🌐 [Live Demo](https://saganaki22.github.io/MetalFlow/)
-
 ### 👀 Preview
 | Desktop View | Mobile View |
 |--------|--------|
 | ![image_2025-02-25_01-21-03](https://github.com/user-attachments/assets/44a7d942-f8a0-41e8-92af-b8c77db24b73) | ![image](https://github.com/user-attachments/assets/3a61a3b6-d2e4-47f8-a8c8-1c0f6a1e56f5) |
 
-
-
-
-
+🌐 [Live Demo](https://saganaki22.github.io/MetalFlow/)
 
 <details>
 <summary>✨ Features</summary>
