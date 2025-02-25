@@ -74,7 +74,6 @@ Transform your logos into mesmerizing liquid metal animations! This WebGL-powere
 
 - **WebGL**: Core rendering engine
 - **Three.js**: 3D graphics library
-- **GIF.js**: High-quality GIF encoding with Web Workers
 - **Custom Shaders**: GLSL for metallic effects
 - **Responsive Design**: Optimized for all screen sizes
 </details>
